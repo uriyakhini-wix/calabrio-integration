@@ -22,5 +22,7 @@ These stats will be taken from the interactions table, will use an interval of 1
 APIs for all three can be found [here](https://mtdemousce01.teleopticloud.com/historical-data/docs/index.html).
 
 ## Realtime data
+Realtime data will be sent for agent statuses. The agent statuses are updated every minute and can be fetched via an [RPC](https://pbo.wixpress.com/rpc-console-poc/wix-answers-war/sever_any/AgentActivityRpcService/getAgentActivities). 
 
 ## Forecast imports
+Unknown, Calabrio didn't send the required API.
